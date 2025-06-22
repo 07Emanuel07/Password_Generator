@@ -1,4 +1,4 @@
-# Emanuel Biruk Seifgebreal - 2024 --> This project is for learning purposes
+# Emanuel Biruk Seifegebreal - 2024 --> This project is for learning purposes
 #Password Generator
 import random
 
